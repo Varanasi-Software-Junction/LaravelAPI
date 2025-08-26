@@ -251,3 +251,10 @@ class Book extends Model
 
 ![alt text](image-9.png)
 
+# Github Link
+
+https://github.com/Varanasi-Software-Junction/LaravelAPI
+
+# PhpMyAdmin
+
+https://sg2plzcpnl509392.prod.sin2.secureserver.net:2083/cpsess0117498206/3rdparty/phpMyAdmin/index.php?route=/sql&pos=0&db=i10475971_b7in1&table=books
